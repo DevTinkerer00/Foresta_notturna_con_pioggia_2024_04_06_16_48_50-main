@@ -1,6 +1,7 @@
 function setup() {
   hideGrid();
   createCanvas3D(windowWidth,windowHeight);
+  getOrbit().autoRotate=true;
   background3D("#1e3e73");
   let lato = 50;
   diffuse("rgb(59,185,59)");

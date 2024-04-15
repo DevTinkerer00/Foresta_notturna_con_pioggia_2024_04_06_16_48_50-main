@@ -2,6 +2,15 @@ html, body {
   margin: 0;
   padding: 0;
 }
+body{
+  background-color:#333333;
+}
 canvas {
   display: block;
+}
+section.presentation{
+  position: absolute;
+  top: 100px;
+  color: white;
+  font-size: 1.8rem ;
 }
