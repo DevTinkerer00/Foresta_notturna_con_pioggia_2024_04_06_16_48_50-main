@@ -13,4 +13,7 @@ section.presentation{
   top: 100px;
   color: white;
   font-size: 1.8rem ;
+  text-align: center ;
+  width: 80%;
+  background:linear-gradient(45deg,#3d3573e0,#473d8b94,#3f338b5f);
 }
