@@ -15,5 +15,6 @@ section.presentation{
   font-size: 1.8rem ;
   text-align: center ;
   width: 80%;
-  background:linear-gradient(45deg,#3d3573e0,#473d8b94,#3f338b5f);
+  background:linear-gradient(45deg,#48407ee0,#5b509f94,#776db93f);
+  margin-left: 10%;
 }
